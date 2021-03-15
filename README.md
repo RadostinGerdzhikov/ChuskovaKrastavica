@@ -21,3 +21,17 @@
  let y = 2;
 
  x + y = 4;
+- chushki
+- kysoplodni karastambolisjki kornushoni
+- paremdjano
+
+-- The Best Cooker OF The World are:
+- Gladnik Gladnikov
+- Fidanka Periskovopova
+## By Mister Przident Of Siciliq 
+- Korchano Davido
+
+- paremdjano
+- sour cabbadge
+
+function (x) { cosnole.log(x + 2)}
