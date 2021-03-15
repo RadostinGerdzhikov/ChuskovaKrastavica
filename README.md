@@ -1,5 +1,8 @@
 # ChushkovaKrastavica
 ### Products
 - chushki
-- krastavici
+- kysoplodni karastambolisjki kornushoni
 - paremdjano
+
+## By Mister Przident Of Siciliq 
+- Korchano Davido
