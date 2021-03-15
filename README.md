@@ -3,3 +3,4 @@
 - chushki
 - krastavici
 - paremdjano
+- sour cabbadje
